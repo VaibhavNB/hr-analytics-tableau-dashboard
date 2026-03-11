@@ -183,9 +183,10 @@ This project was built as part of learning data visualization and dashboard desi
 The following resource helped guide the development of this dashboard:
 
 📺 **YouTube Tutorial**  
-[Watch the tutorial](https://www.youtube.com/@datatutorials1)
+[Watch the tutorial](https://youtu.be/oAIubTqg-Kw?si=Lq4_qCotbwSLHWIl) ||
+[Follow Youtube Channel](https://www.youtube.com/@datatutorials1)
 
-The dashboard structure and visualization ideas were inspired by this tutorial while implementing the project independently using Tableau.
+- The dashboard structure and visualization ideas were inspired by this tutorial while implementing the project independently using Tableau.
 ---
 
 # Author
