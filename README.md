@@ -22,12 +22,21 @@ The dashboard enables HR teams and decision-makers to explore employee patterns,
 The primary goal of this project is to demonstrate **data visualization, business intelligence, and analytical storytelling skills** by transforming raw HR data into meaningful and interactive visual insights.
 
 ---
+## Live Dashboard
+
+The interactive version of this dashboard is available on Tableau Public.
+
+🔗 **View Dashboard:**  
+[HR Analytics Dashboard on Tableau Public](https://public.tableau.com/views/hr-analytics-dashboard/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 
 # Dashboard Preview
 
 ![Dashboard Preview](images/dashboard_preview.png)
 
 ---
+
 
 # Key Metrics
 
