@@ -177,6 +177,17 @@ Possible enhancements for this project include:
 
 ---
 
+# Learning Resources
+
+This project was built as part of learning data visualization and dashboard design.  
+The following resource helped guide the development of this dashboard:
+
+📺 **YouTube Tutorial**  
+[Watch the tutorial](https://www.youtube.com/@datatutorials1)
+
+The dashboard structure and visualization ideas were inspired by this tutorial while implementing the project independently using Tableau.
+---
+
 # Author
 
 **Vaibhav Badiger**
